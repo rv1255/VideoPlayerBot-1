@@ -8,7 +8,7 @@
         "video stream"
     ],
     "website": "https://t.me/sophiaupdates",
-    "repository": "https://github.com/dihanofficial/videoplayerbot",
+    "repository": "https://github.com/rv1255/videoplayerbot",
     "success_url": "https://t.me/sophiaupdates",
     "env": {
         "API_ID": {
